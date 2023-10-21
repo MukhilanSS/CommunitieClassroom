@@ -1,0 +1,7 @@
+cd-------------->change directory
+mkdir ---------> make directory
+ls -------------->list
+git init -------->new repositary(initialize)
+ls .git ---------> to show folder(it shows what inside in .git folder)
+touch (file.txt)--->to create folder
+git status ------>Untracked files
