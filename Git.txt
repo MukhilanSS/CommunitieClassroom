@@ -4,4 +4,16 @@ ls -------------->list
 git init -------->new repositary(initialize)
 ls .git ---------> to show folder(it shows what inside in .git folder)
 touch (file.txt)--->to create folder
-git status ------>Untracked files
+git status --- --->Untracked files(history not save)
+. ----> everything in current 
+git add . ----> all files 
+git commit -m " Comment "---------> provide a message
+vi mukhil.txt -----> to write something in file 
+git restore --staged mukhil.txt -----> restore the previous changes
+git log ------> shows the history
+git rm -rf name.txt ----> to delete the file
+git reset (path)-----> remove the preivos command
+git stash -------> go back and get files without commit
+git remote add origin------>   remote-->url,   add---> adding url ,      orgin ---> give a name to url
+git remote -v ----->  shows all the url in folder
+git push origin master ---> push the folder to repository
